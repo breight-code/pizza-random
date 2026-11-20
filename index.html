@@ -686,7 +686,7 @@ function fmt(d){ return d.toLocaleString("it-IT", { weekday:"short", day:"numeri
 let tt; function toast(m){ const t = document.getElementById("toast"); t.textContent = m; t.classList.add("on"); clearTimeout(tt); tt = setTimeout(() => t.classList.remove("on"), 2600); }
 
 /* go! */
-if (!me) setTimeout(openSetup, 600);
+if (!me && !LS.get("visto", false)) { LS.set("visto", true); setTimeout(openSetup, 600); }
 load();
 </script>
 </body>
