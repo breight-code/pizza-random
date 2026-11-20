@@ -1,0 +1,54 @@
+name: Aggiorna menu
+# Parte SOLO a mano (pulsante "Aggiorna pizze" sul sito o da GitHub).
+# Al massimo una volta ogni 24 ore.
+on: workflow_dispatch
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggiorna-menu
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Controllo blocco 24 ore
+        id: blocco
+        run: |
+          python3 - <<'PY'
+          import json, os, datetime
+          ok = True
+          try:
+              agg = json.load(open("menu.json"))["aggiornato"]
+              t = datetime.datetime.fromisoformat(agg)
+              ore = (datetime.datetime.now(datetime.timezone.utc) - t).total_seconds() / 3600
+              print(f"Ultimo aggiornamento {ore:.1f} ore fa")
+              ok = ore >= 24
+          except FileNotFoundError:
+              print("Nessun menu.json: primo aggiornamento")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"vai={'si' if ok else 'no'}\n")
+          if not ok:
+              print("::notice::Aggiornato meno di 24 ore fa, non faccio niente.")
+          PY
+
+      - name: Scarica e leggi il menu
+        if: steps.blocco.outputs.vai == 'si'
+        run: python3 scripts/scrape.py --out menu.json
+
+      - name: Salva menu.json
+        if: steps.blocco.outputs.vai == 'si'
+        run: |
+          git config user.name "pizza-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add menu.json
+          git commit -m "Menu aggiornato" || exit 0
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase
+          done
+          exit 1
