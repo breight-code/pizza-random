@@ -1,0 +1,1059 @@
+{
+ "aggiornato": "2026-11-20T13:48:56+00:00",
+ "fonte": "https://www.pizzamari.it/menu/",
+ "pizze": [
+  {
+   "id": "pizze-del-mese-senza-testa",
+   "nome": "Senza testa",
+   "sezione": "Pizze del mese",
+   "sottosezione": "Pizze con zucca aromatizzata, salvia e rosmarino",
+   "ingredienti": "pomodoro, mozzarella, zucca, ricotta affumicata, speck",
+   "prezzo": 9.8,
+   "maxi": null
+  },
+  {
+   "id": "pizze-del-mese-spaventosa",
+   "nome": "Spaventosa",
+   "sezione": "Pizze del mese",
+   "sottosezione": "Pizze con zucca aromatizzata, salvia e rosmarino",
+   "ingredienti": "pomodoro, mozzarella, zucca, noci, speck",
+   "prezzo": 9.5,
+   "maxi": null
+  },
+  {
+   "id": "pizze-del-mese-gorgozucca",
+   "nome": "Gorgozucca",
+   "sezione": "Pizze del mese",
+   "sottosezione": "Pizze con zucca aromatizzata, salvia e rosmarino",
+   "ingredienti": "mozzarella, gorgonzola, zucca, pancetta affumicata",
+   "prezzo": 9.5,
+   "maxi": null
+  },
+  {
+   "id": "pizze-del-mese-brontolo",
+   "nome": "Brontolo",
+   "sezione": "Pizze del mese",
+   "sottosezione": "Pizze con zucca aromatizzata, salvia e rosmarino",
+   "ingredienti": "pomodoro, mozzarella, zucca, porcini, salsiccia",
+   "prezzo": 9.5,
+   "maxi": null
+  },
+  {
+   "id": "pizze-del-mese-valentina",
+   "nome": "Valentina",
+   "sezione": "Pizze del mese",
+   "sottosezione": "Pizze con zucca aromatizzata, salvia e rosmarino",
+   "ingredienti": "mozzarella, zucca, stracchino, cipolla rossa, salsiccia",
+   "prezzo": 9.5,
+   "maxi": null
+  },
+  {
+   "id": "pizze-del-mese-de-casada",
+   "nome": "De casada",
+   "sezione": "Pizze del mese",
+   "sottosezione": "Pizze con radicchio di Treviso",
+   "ingredienti": "pomodoro, mozzarella, radicchio di Treviso, salsiccia fresca",
+   "prezzo": 9.2,
+   "maxi": null
+  },
+  {
+   "id": "pizze-del-mese-filo",
+   "nome": "Filò",
+   "sezione": "Pizze del mese",
+   "sottosezione": "Pizze con radicchio di Treviso",
+   "ingredienti": "pomodoro, mozzarella, radicchio di Treviso, lardo di colonnata",
+   "prezzo": 9.2,
+   "maxi": null
+  },
+  {
+   "id": "pizze-del-mese-dei-signori",
+   "nome": "Dei Signori",
+   "sezione": "Pizze del mese",
+   "sottosezione": "Pizze con radicchio di Treviso",
+   "ingredienti": "mozzarella, pepe, radicchio di Treviso, morlacco, speck",
+   "prezzo": 9.8,
+   "maxi": null
+  },
+  {
+   "id": "pizze-del-mese-loggia",
+   "nome": "Loggia",
+   "sezione": "Pizze del mese",
+   "sottosezione": "Pizze con radicchio di Treviso",
+   "ingredienti": "pomodoro, mozzarella, radicchio di Treviso, cipolla, porchetta",
+   "prezzo": 9.5,
+   "maxi": null
+  },
+  {
+   "id": "pizze-del-mese-santi-quaranta",
+   "nome": "Santi Quaranta",
+   "sezione": "Pizze del mese",
+   "sottosezione": "Pizze con radicchio di Treviso",
+   "ingredienti": "pomodoro, mozzarella, radicchio di Treviso, stracchino, salamino piccante",
+   "prezzo": 9.2,
+   "maxi": null
+  },
+  {
+   "id": "pizze-del-mese-san-tommaso",
+   "nome": "San Tommaso",
+   "sezione": "Pizze del mese",
+   "sottosezione": "Pizze con radicchio di Treviso",
+   "ingredienti": "mozzarella, radicchio di Treviso, salsiccia fresca, noci, lardo di colonnata",
+   "prezzo": 9.8,
+   "maxi": null
+  },
+  {
+   "id": "pizze-del-mese-altinia",
+   "nome": "Altinia",
+   "sezione": "Pizze del mese",
+   "sottosezione": "Pizze con radicchio di Treviso",
+   "ingredienti": "mozzarella, radicchio di Treviso, gorgonzola, noci, pancetta",
+   "prezzo": 9.5,
+   "maxi": null
+  },
+  {
+   "id": "pizze-del-mese-sile",
+   "nome": "Sile",
+   "sezione": "Pizze del mese",
+   "sottosezione": "Pizze con radicchio di Treviso",
+   "ingredienti": "mozzarella, pepe, radicchio di Treviso, mazzancolle, lardo di colonnata",
+   "prezzo": 10.5,
+   "maxi": null
+  },
+  {
+   "id": "classiche-marinara",
+   "nome": "Marinara",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, olio, aglio, origano",
+   "prezzo": 4.8,
+   "maxi": 10.0
+  },
+  {
+   "id": "classiche-margherita",
+   "nome": "Margherita",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, origano",
+   "prezzo": 6.2,
+   "maxi": 13.5
+  },
+  {
+   "id": "classiche-prosciutto",
+   "nome": "Prosciutto",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, prosciutto, origano",
+   "prezzo": 7.2,
+   "maxi": 15.2
+  },
+  {
+   "id": "classiche-prosciutto-e-funghi",
+   "nome": "Prosciutto e funghi",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, prosciutto, funghi, origano",
+   "prezzo": 7.7,
+   "maxi": 16.0
+  },
+  {
+   "id": "classiche-capricciosa",
+   "nome": "Capricciosa",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, prosciutto, carciofini, funghi, origano",
+   "prezzo": 8.2,
+   "maxi": 17.5
+  },
+  {
+   "id": "classiche-4-stagioni",
+   "nome": "4 stagioni",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, prosciutto, carciofini, funghi, olive nere (gusti separati), origano",
+   "prezzo": 8.2,
+   "maxi": 17.5
+  },
+  {
+   "id": "classiche-diavola",
+   "nome": "Diavola",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, salamino piccante, origano",
+   "prezzo": 6.8,
+   "maxi": 15.0
+  },
+  {
+   "id": "classiche-viennese",
+   "nome": "Viennese",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, würstel, origano",
+   "prezzo": 6.8,
+   "maxi": 15.0
+  },
+  {
+   "id": "classiche-salsiccia",
+   "nome": "Salsiccia",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, salsiccia, origano",
+   "prezzo": 7.5,
+   "maxi": 15.5
+  },
+  {
+   "id": "classiche-acciughe",
+   "nome": "Acciughe",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, filetti di acciughe, origano",
+   "prezzo": 6.5,
+   "maxi": 13.5
+  },
+  {
+   "id": "classiche-romana",
+   "nome": "Romana",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, acciughe, capperi, pomodorini, origano",
+   "prezzo": 7.2,
+   "maxi": 15.5
+  },
+  {
+   "id": "classiche-tonno",
+   "nome": "Tonno",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, tonno, origano",
+   "prezzo": 7.0,
+   "maxi": 15.5
+  },
+  {
+   "id": "classiche-tonno-e-cipolla",
+   "nome": "Tonno e cipolla",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, tonno, cipolla",
+   "prezzo": 7.8,
+   "maxi": 17.0
+  },
+  {
+   "id": "classiche-bufala",
+   "nome": "Bufala",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, bufala, origano (o basilico, se in stagione)",
+   "prezzo": 8.2,
+   "maxi": 17.5
+  },
+  {
+   "id": "classiche-patatosa",
+   "nome": "Patatosa",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, patate fritte*",
+   "prezzo": 7.8,
+   "maxi": 17.0
+  },
+  {
+   "id": "classiche-mcdonald",
+   "nome": "Mcdonald",
+   "sezione": "Classiche",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, wurstel, patate fritte*",
+   "prezzo": 8.1,
+   "maxi": 18.0
+  },
+  {
+   "id": "formaggi-e-affettati-4-formaggi",
+   "nome": "4 formaggi",
+   "sezione": "Formaggi e affettati",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, formaggi misti (possono variare), origano",
+   "prezzo": 8.8,
+   "maxi": 18.0
+  },
+  {
+   "id": "formaggi-e-affettati-brie",
+   "nome": "Brie",
+   "sezione": "Formaggi e affettati",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, brie, origano",
+   "prezzo": 7.7,
+   "maxi": 16.0
+  },
+  {
+   "id": "formaggi-e-affettati-gorgonzola",
+   "nome": "Gorgonzola",
+   "sezione": "Formaggi e affettati",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, gorgonzola, origano",
+   "prezzo": 7.7,
+   "maxi": 16.0
+  },
+  {
+   "id": "formaggi-e-affettati-gorgonzola-e-speck",
+   "nome": "Gorgonzola e speck",
+   "sezione": "Formaggi e affettati",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, gorgonzola, speck",
+   "prezzo": 8.8,
+   "maxi": 18.0
+  },
+  {
+   "id": "formaggi-e-affettati-speck-e-brie",
+   "nome": "Speck e brie",
+   "sezione": "Formaggi e affettati",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, speck, brie",
+   "prezzo": 8.8,
+   "maxi": 18.0
+  },
+  {
+   "id": "formaggi-e-affettati-noci-e-gorgonzola",
+   "nome": "Noci e gorgonzola",
+   "sezione": "Formaggi e affettati",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, speck, gorgonzola",
+   "prezzo": 8.5,
+   "maxi": 17.5
+  },
+  {
+   "id": "formaggi-e-affettati-speck",
+   "nome": "Speck",
+   "sezione": "Formaggi e affettati",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, speck",
+   "prezzo": 7.8,
+   "maxi": 16.5
+  },
+  {
+   "id": "formaggi-e-affettati-soppressa-nostrana",
+   "nome": "Soppressa nostrana",
+   "sezione": "Formaggi e affettati",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, soppressa D.O.P.",
+   "prezzo": 7.8,
+   "maxi": 16.5
+  },
+  {
+   "id": "formaggi-e-affettati-crudo",
+   "nome": "Crudo",
+   "sezione": "Formaggi e affettati",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, crudo di Parma 18/24 mesi",
+   "prezzo": 8.2,
+   "maxi": 17.0
+  },
+  {
+   "id": "formaggi-e-affettati-italica",
+   "nome": "Italica",
+   "sezione": "Formaggi e affettati",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, dopo cottura: bresaola, rucola, grana a scaglie",
+   "prezzo": 8.7,
+   "maxi": 18.0
+  },
+  {
+   "id": "verdure-piastra",
+   "nome": "Piastra",
+   "sezione": "Verdure",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, verdure alla griglia (possono variare)",
+   "prezzo": 8.8,
+   "maxi": 19.0
+  },
+  {
+   "id": "verdure-ortolana",
+   "nome": "Ortolana",
+   "sezione": "Verdure",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, verdure a fantasia (gusti separati)",
+   "prezzo": 9.5,
+   "maxi": 20.0
+  },
+  {
+   "id": "verdure-melanzane",
+   "nome": "Melanzane",
+   "sezione": "Verdure",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, melanzane grigliate",
+   "prezzo": 7.6,
+   "maxi": 15.5
+  },
+  {
+   "id": "verdure-peperoni",
+   "nome": "Peperoni",
+   "sezione": "Verdure",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, peperoni grigliati",
+   "prezzo": 7.6,
+   "maxi": 15.5
+  },
+  {
+   "id": "verdure-zucchine",
+   "nome": "Zucchine",
+   "sezione": "Verdure",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, zucchine grigliate",
+   "prezzo": 7.6,
+   "maxi": 15.5
+  },
+  {
+   "id": "verdure-carciofini",
+   "nome": "Carciofini",
+   "sezione": "Verdure",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, carciofini",
+   "prezzo": 7.5,
+   "maxi": 15.5
+  },
+  {
+   "id": "verdure-ricotta-e-spinaci",
+   "nome": "Ricotta e spinaci",
+   "sezione": "Verdure",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, ricotta, spinaci",
+   "prezzo": 8.0,
+   "maxi": 16.5
+  },
+  {
+   "id": "verdure-brezza",
+   "nome": "Brezza",
+   "sezione": "Verdure",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, pomodorini, D.C. rucola, grana e scaglie",
+   "prezzo": 7.5,
+   "maxi": 15.5
+  },
+  {
+   "id": "verdure-parmigiana",
+   "nome": "Parmigiana",
+   "sezione": "Verdure",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, melanzane grigliate, grana, origano",
+   "prezzo": 7.7,
+   "maxi": 15.5
+  },
+  {
+   "id": "verdure-fit",
+   "nome": "Fit",
+   "sezione": "Verdure",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, melanzane, pomodori soleggiati, feta greca, olio all’aglio, origano",
+   "prezzo": 8.0,
+   "maxi": 17.0
+  },
+  {
+   "id": "delizie-bianche-atena",
+   "nome": "Atena",
+   "sezione": "Delizie bianche",
+   "sottosezione": null,
+   "ingredienti": "mozzarella, pomodorini, cipolla, olive nere, feta greca",
+   "prezzo": 8.7,
+   "maxi": 18.0
+  },
+  {
+   "id": "delizie-bianche-alto-adige",
+   "nome": "Alto adige",
+   "sezione": "Delizie bianche",
+   "sottosezione": null,
+   "ingredienti": "mozzarella, stracchino, carciofini, speck",
+   "prezzo": 8.7,
+   "maxi": 18.0
+  },
+  {
+   "id": "delizie-bianche-boscaiola",
+   "nome": "Boscaiola",
+   "sezione": "Delizie bianche",
+   "sottosezione": null,
+   "ingredienti": "mozzarella, misto funghi, brie, porchetta, rosmarino, grana",
+   "prezzo": 9.2,
+   "maxi": 19.0
+  },
+  {
+   "id": "delizie-bianche-barbeque",
+   "nome": "Barbeque",
+   "sezione": "Delizie bianche",
+   "sottosezione": null,
+   "ingredienti": "mozzarella, verdure grigliate, pancetta, salsiccia, pepe, grana",
+   "prezzo": 9.2,
+   "maxi": 19.0
+  },
+  {
+   "id": "delizie-bianche-carbonara",
+   "nome": "Carbonara",
+   "sezione": "Delizie bianche",
+   "sottosezione": null,
+   "ingredienti": "mozzarella, pepe, 2 uova sbattute, grana, pancetta affumicata",
+   "prezzo": 9.2,
+   "maxi": 19.0
+  },
+  {
+   "id": "delizie-bianche-giusta",
+   "nome": "Giusta",
+   "sezione": "Delizie bianche",
+   "sottosezione": null,
+   "ingredienti": "mozzarella, patate al forno, olive taggiasche, porchetta di ariccia",
+   "prezzo": 9.0,
+   "maxi": 19.0
+  },
+  {
+   "id": "delizie-bianche-friarielli-e-salsiccia",
+   "nome": "Friarielli e salsiccia",
+   "sezione": "Delizie bianche",
+   "sottosezione": null,
+   "ingredienti": "mozzarella, friarielli, salsiccia, grana",
+   "prezzo": 9.2,
+   "maxi": 19.0
+  },
+  {
+   "id": "delizie-bianche-tedesca",
+   "nome": "Tedesca",
+   "sezione": "Delizie bianche",
+   "sottosezione": null,
+   "ingredienti": "mozzarella, cipolla, patate lesse, rosmarino, pancetta affumicata",
+   "prezzo": 8.7,
+   "maxi": 18.0
+  },
+  {
+   "id": "delizie-bianche-contadina",
+   "nome": "Contadina",
+   "sezione": "Delizie bianche",
+   "sottosezione": null,
+   "ingredienti": "mozzarella, patate lesse, rosmarino, salsiccia fresca",
+   "prezzo": 8.0,
+   "maxi": 16.5
+  },
+  {
+   "id": "delizie-bianche-posillipo",
+   "nome": "Posillipo",
+   "sezione": "Delizie bianche",
+   "sottosezione": null,
+   "ingredienti": "mozzarella, friarielli, scamorza, salamino piccante",
+   "prezzo": 8.5,
+   "maxi": 18.0
+  },
+  {
+   "id": "delizie-bianche-ligure",
+   "nome": "Ligure",
+   "sezione": "Delizie bianche",
+   "sottosezione": null,
+   "ingredienti": "mozzarella, zucchine, pesto genovese, brie, grana a scaglie",
+   "prezzo": 8.2,
+   "maxi": 17.0
+  },
+  {
+   "id": "speciali-aleleo",
+   "nome": "Aleleo",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, melanzane arrostite, olive taggiasche, bufala, grana a scaglie",
+   "prezzo": 9.0,
+   "maxi": 19.0
+  },
+  {
+   "id": "speciali-amore",
+   "nome": "Amore",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, philadelphia, peperoni, salamino",
+   "prezzo": 9.0,
+   "maxi": 18.6
+  },
+  {
+   "id": "speciali-aurora",
+   "nome": "Aurora",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, philadelphia, zucchine, prosciutto",
+   "prezzo": 9.0,
+   "maxi": 18.6
+  },
+  {
+   "id": "speciali-amatriciana",
+   "nome": "Amatriciana",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, peperoncino, cipolla rossa, pancetta affumicata, grana",
+   "prezzo": 8.7,
+   "maxi": 18.0
+  },
+  {
+   "id": "speciali-autunnale",
+   "nome": "Autunnale",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, chiodini, asiago, speck",
+   "prezzo": 8.7,
+   "maxi": 18.0
+  },
+  {
+   "id": "speciali-bagolo",
+   "nome": "Bagolo",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, ricotta, noci, pancetta affumicata",
+   "prezzo": 8.7,
+   "maxi": 18.0
+  },
+  {
+   "id": "speciali-bacon",
+   "nome": "Bacon",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, pancetta affumicata, salamino, uovo",
+   "prezzo": 9.0,
+   "maxi": 19.0
+  },
+  {
+   "id": "speciali-cicciona",
+   "nome": "Cicciona",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, salsiccia fresca, pancetta affumicata, brie",
+   "prezzo": 9.0,
+   "maxi": 19.0
+  },
+  {
+   "id": "speciali-burratina",
+   "nome": "Burratina",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, pomodori arrostiti (se in stagione), olive taggiasche, burratina",
+   "prezzo": 8.8,
+   "maxi": 19.0
+  },
+  {
+   "id": "speciali-carciofi-e-stracchino",
+   "nome": "Carciofi e stracchino",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, carciofi e stracchino",
+   "prezzo": 8.2,
+   "maxi": 17.0
+  },
+  {
+   "id": "speciali-casareccia",
+   "nome": "Casareccia",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, asiago, sopressa",
+   "prezzo": 8.7,
+   "maxi": 18.0
+  },
+  {
+   "id": "speciali-campanaccio",
+   "nome": "Campanaccio",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, bufala, pomodorini semi secchi, salsiccia fresca",
+   "prezzo": 9.0,
+   "maxi": 18.5
+  },
+  {
+   "id": "speciali-del-capo",
+   "nome": "Del capo",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, salsiccia, nduja piccante, burratina, pomodori secchi, olive taggiasche",
+   "prezzo": 9.8,
+   "maxi": 20.0
+  },
+  {
+   "id": "speciali-genovese",
+   "nome": "Genovese",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, pomodorini, pesto genovese D.C, grana a scaglie",
+   "prezzo": 8.0,
+   "maxi": 16.5
+  },
+  {
+   "id": "speciali-gattaccia",
+   "nome": "Gattaccia",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, patate al forno, stracchino, sopressa",
+   "prezzo": 8.5,
+   "maxi": 18.0
+  },
+  {
+   "id": "speciali-maleducata",
+   "nome": "Maleducata",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, melanzane arrostite, peperoni, nduja piccante, porchetta",
+   "prezzo": 9.5,
+   "maxi": 19.0
+  },
+  {
+   "id": "speciali-mediterranea",
+   "nome": "Mediterranea",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, bufala, salamino, acciughe, olive nere, pomodorini, pomodorini semi secchi, basilico (se in stagione)",
+   "prezzo": 9.2,
+   "maxi": 19.0
+  },
+  {
+   "id": "speciali-montanara",
+   "nome": "Montanara",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, misto funghi",
+   "prezzo": 8.0,
+   "maxi": 16.6
+  },
+  {
+   "id": "speciali-montello",
+   "nome": "Montello",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, chiodini, sopressa",
+   "prezzo": 8.8,
+   "maxi": 19.0
+  },
+  {
+   "id": "speciali-messicana",
+   "nome": "Messicana",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, salamino, peperoni, acciughe, capperi, olive nere, peperoncino",
+   "prezzo": 8.7,
+   "maxi": 19.0
+  },
+  {
+   "id": "speciali-nicole",
+   "nome": "Nicole",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, pomodorini arrostiti (se in stagione), pancetta affumicata, olive taggiasche, peperoni, burratina pugliese",
+   "prezzo": 9.2,
+   "maxi": 19.0
+  },
+  {
+   "id": "speciali-nonna-nina",
+   "nome": "Nonna nina",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, friarielli, nduja piccante, grana in cottura",
+   "prezzo": 9.2,
+   "maxi": 19.0
+  },
+  {
+   "id": "speciali-pizza-del-pazzo",
+   "nome": "Pizza del pazzo",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, salsiccia fresca, salamino, bufala, gorgonzola, chiodini, porcini",
+   "prezzo": 10.0,
+   "maxi": 21.0
+  },
+  {
+   "id": "speciali-principe",
+   "nome": "Principe",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, panna, scamorza affumicata, speck",
+   "prezzo": 8.8,
+   "maxi": 18.5
+  },
+  {
+   "id": "speciali-siciliana",
+   "nome": "Siciliana",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, melanzane, cipolla, salamino, ricotta, grana",
+   "prezzo": 8.8,
+   "maxi": 18.5
+  },
+  {
+   "id": "speciali-spianata-calabra",
+   "nome": "Spianata calabra",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, olive nere, bufala, pomodori secchi, spianata calabra",
+   "prezzo": 9.2,
+   "maxi": 19.0
+  },
+  {
+   "id": "speciali-super",
+   "nome": "Super",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, bufala, porcini, speck",
+   "prezzo": 9.0,
+   "maxi": 18.5
+  },
+  {
+   "id": "speciali-texana",
+   "nome": "Texana",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, peperoncino, pancetta affumicata, cipolla, fagioli",
+   "prezzo": 8.8,
+   "maxi": 18.0
+  },
+  {
+   "id": "speciali-valtellina",
+   "nome": "Valtellina",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, porcini, bresaola, rucola, grana",
+   "prezzo": 9.0,
+   "maxi": 18.5
+  },
+  {
+   "id": "speciali-sorella",
+   "nome": "Sorella",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, porcini, brie, rucola, crudo di parma",
+   "prezzo": 9.5,
+   "maxi": 19.4
+  },
+  {
+   "id": "speciali-kaori",
+   "nome": "Kaori",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, philadelphia, pomodorini, rucola, prosciutto crudo di Parma 18/24 mesi",
+   "prezzo": 9.5,
+   "maxi": 19.5
+  },
+  {
+   "id": "speciali-speciale",
+   "nome": "Speciale",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, bufala, brie, salamino, salsiccia fresca",
+   "prezzo": 8.7,
+   "maxi": 18.0
+  },
+  {
+   "id": "speciali-golosa",
+   "nome": "Golosa",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, zucchine, gorgonzola, pancetta affumicata",
+   "prezzo": 8.7,
+   "maxi": 18.0
+  },
+  {
+   "id": "speciali-zingara",
+   "nome": "Zingara",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, acciughe, salamino, olive nere, tonno",
+   "prezzo": 8.2,
+   "maxi": 17.2
+  },
+  {
+   "id": "speciali-ponta",
+   "nome": "Ponta",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, porcini, asiago, salsiccia, pancetta",
+   "prezzo": 9.2,
+   "maxi": 19.4
+  },
+  {
+   "id": "speciali-seria",
+   "nome": "Seria",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, cipolla, gorgonzola, nduja piccante",
+   "prezzo": 8.8,
+   "maxi": 16.8
+  },
+  {
+   "id": "speciali-laziale",
+   "nome": "Laziale",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, olive nere, carciofini, porchetta di Ariccia",
+   "prezzo": 9.5,
+   "maxi": 20.0
+  },
+  {
+   "id": "speciali-o-sole-mio",
+   "nome": "O sole mio",
+   "sezione": "Speciali",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, pomodori soleggiati, bufala, rucola",
+   "prezzo": 8.7,
+   "maxi": 17.8
+  },
+  {
+   "id": "pesce-mari-e-monti",
+   "nome": "Mari e monti",
+   "sezione": "Pesce",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, gamberetti, porcini",
+   "prezzo": 8.8,
+   "maxi": 17.8
+  },
+  {
+   "id": "pesce-mari",
+   "nome": "Marì",
+   "sezione": "Pesce",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, frutti di mare*, capasanta*, cozze*, mazzancolle*",
+   "prezzo": 12.0,
+   "maxi": 22.0
+  },
+  {
+   "id": "pesce-norvegese",
+   "nome": "Norvegese",
+   "sezione": "Pesce",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, philadelphia, salmone affumicato",
+   "prezzo": 11.8,
+   "maxi": 23.0
+  },
+  {
+   "id": "pesce-miss",
+   "nome": "Miss",
+   "sezione": "Pesce",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, panna, patate lesse, rosmarino, salmone affumicato",
+   "prezzo": 11.8,
+   "maxi": 23.0
+  },
+  {
+   "id": "calzoni-calzone-classico",
+   "nome": "Calzone classico",
+   "sezione": "Calzoni",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, prosciutto, funghi, carciofi",
+   "prezzo": 8.5,
+   "maxi": null
+  },
+  {
+   "id": "calzoni-calzone-4-formaggi",
+   "nome": "Calzone 4 formaggi",
+   "sezione": "Calzoni",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, formaggi misti",
+   "prezzo": 8.8,
+   "maxi": null
+  },
+  {
+   "id": "calzoni-calzone-verdure",
+   "nome": "Calzone verdure",
+   "sezione": "Calzoni",
+   "sottosezione": null,
+   "ingredienti": "pomodoro, mozzarella, verdure grigliate",
+   "prezzo": 8.8,
+   "maxi": null
+  },
+  {
+   "id": "extra-e-fritti-patate-fritte",
+   "nome": "Patate fritte*",
+   "sezione": "Extra e Fritti",
+   "sottosezione": null,
+   "ingredienti": "*prodotto congelato",
+   "prezzo": 4.2,
+   "maxi": null
+  },
+  {
+   "id": "extra-e-fritti-olive-ascolane",
+   "nome": "Olive ascolane*",
+   "sezione": "Extra e Fritti",
+   "sottosezione": null,
+   "ingredienti": "*prodotto congelato",
+   "prezzo": 4.5,
+   "maxi": null
+  },
+  {
+   "id": "extra-e-fritti-crocchette-di-pollo",
+   "nome": "Crocchette di pollo*",
+   "sezione": "Extra e Fritti",
+   "sottosezione": null,
+   "ingredienti": "*prodotto congelato",
+   "prezzo": 4.5,
+   "maxi": null
+  },
+  {
+   "id": "extra-e-fritti-jalapenos-cheddar",
+   "nome": "Jalapeños* cheddar",
+   "sezione": "Extra e Fritti",
+   "sottosezione": null,
+   "ingredienti": "*prodotto congelato",
+   "prezzo": 5.0,
+   "maxi": null
+  },
+  {
+   "id": "extra-e-fritti-red-hot-chili-peppers",
+   "nome": "Red hot chili peppers*",
+   "sezione": "Extra e Fritti",
+   "sottosezione": null,
+   "ingredienti": "*prodotto congelato",
+   "prezzo": 5.0,
+   "maxi": null
+  },
+  {
+   "id": "aggiunte-agg-verdure",
+   "nome": "Agg. verdure",
+   "sezione": "Aggiunte",
+   "sottosezione": null,
+   "ingredienti": "",
+   "prezzo": 2.0,
+   "maxi": null
+  },
+  {
+   "id": "aggiunte-agg-formaggi",
+   "nome": "Agg. formaggi",
+   "sezione": "Aggiunte",
+   "sottosezione": null,
+   "ingredienti": "",
+   "prezzo": 1.5,
+   "maxi": null
+  },
+  {
+   "id": "aggiunte-agg-crudo-di-parma-pancetta-affumicata-bresaola",
+   "nome": "Agg. crudo di Parma, pancetta affumicata, bresaola",
+   "sezione": "Aggiunte",
+   "sottosezione": null,
+   "ingredienti": "",
+   "prezzo": 2.3,
+   "maxi": null
+  },
+  {
+   "id": "aggiunte-agg-mazzancolle",
+   "nome": "Agg. mazzancolle",
+   "sezione": "Aggiunte",
+   "sottosezione": null,
+   "ingredienti": "",
+   "prezzo": 3.2,
+   "maxi": null
+  },
+  {
+   "id": "aggiunte-agg-salmone-afumicato",
+   "nome": "Agg. salmone afumicato",
+   "sezione": "Aggiunte",
+   "sottosezione": null,
+   "ingredienti": "",
+   "prezzo": 4.5,
+   "maxi": null
+  },
+  {
+   "id": "aggiunte-battuta",
+   "nome": "Battuta",
+   "sezione": "Aggiunte",
+   "sottosezione": null,
+   "ingredienti": "",
+   "prezzo": 3.0,
+   "maxi": null
+  },
+  {
+   "id": "aggiunte-doppia-pasta",
+   "nome": "Doppia Pasta",
+   "sezione": "Aggiunte",
+   "sottosezione": null,
+   "ingredienti": "",
+   "prezzo": 2.0,
+   "maxi": null
+  }
+ ]
+}
