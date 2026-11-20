@@ -1,0 +1,15 @@
+name: debug-html
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          curl -sSL -A "Mozilla/5.0" https://www.pizzamari.it/menu/ -o menu.html
+          wc -c menu.html
+          git init -q out && mv menu.html out/ && cd out
+          git config user.name bot && git config user.email bot@users.noreply.github.com
+          git add . && git commit -qm dump
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" HEAD:refs/heads/debug-html
